@@ -15,3 +15,4 @@ class Vestibular(models.Model):
     
 class Candidato(models.Model):
     nome = models.CharField(max_length=200)
+
